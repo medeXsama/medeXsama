@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-<img src="https://media1.tenor.com/m/1maawU1NsgwAAAAd/yoimiya.gif"/>
+<img width="500" src="https://media1.tenor.com/m/1maawU1NsgwAAAAd/yoimiya.gif"/>
 </p>
 <h1 align="center">Hello, I'm medeX 🙂</h1>
 <h3 align="center">A Front end Developer</h3>
