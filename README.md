@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
 <img width="500" src="https://media1.tenor.com/m/1maawU1NsgwAAAAd/yoimiya.gif"/>
 </p>
@@ -28,11 +27,15 @@
 </p>
 
 <details>
-    <summary><h3>My Github stats:</h3></summary>
+    <summary><h3>👈 My Github stats:</h3></summary>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medexsama" alt="medexsama" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=medexsama&show_icons=true&locale=en&layout=compact" alt="medexsama" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medexsama&show_icons=true&locale=en" alt="medexsama" /></p>
-  </details>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </details>
+
