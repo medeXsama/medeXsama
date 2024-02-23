@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **nothing..**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/medeXsama](https://github.com/medeXsama)
 
