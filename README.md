@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Cloud Computing**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Google Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/medeXsama](https://github.com/medeXsama)
 
